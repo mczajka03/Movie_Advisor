@@ -1,0 +1,4 @@
+cd PJN-PROJEKT folder
+python src/app/main.py
+
+example C:\UAM-Repos\PJN-PROJEKT\>python src/app/main.py

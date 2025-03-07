@@ -1,0 +1,894 @@
+{
+    "Action": [
+        [
+            "Action",
+            "https://www.imdb.com/interest/in0000001/?ref_=ints_cat_1_in_t_1"
+        ],
+        [
+            "Action Epic",
+            "https://www.imdb.com/interest/in0000002/?ref_=ints_cat_1_in_t_2"
+        ],
+        [
+            "B-Action",
+            "https://www.imdb.com/interest/in0000003/?ref_=ints_cat_1_in_t_3"
+        ],
+        [
+            "Car Action",
+            "https://www.imdb.com/interest/in0000004/?ref_=ints_cat_1_in_t_4"
+        ],
+        [
+            "Disaster",
+            "https://www.imdb.com/interest/in0000005/?ref_=ints_cat_1_in_t_5"
+        ],
+        [
+            "Gun Fu",
+            "https://www.imdb.com/interest/in0000197/?ref_=ints_cat_1_in_t_6"
+        ],
+        [
+            "Kung Fu",
+            "https://www.imdb.com/interest/in0000198/?ref_=ints_cat_1_in_t_7"
+        ],
+        [
+            "Martial Arts",
+            "https://www.imdb.com/interest/in0000006/?ref_=ints_cat_1_in_t_8"
+        ],
+        [
+            "One-Person Army Action",
+            "https://www.imdb.com/interest/in0000007/?ref_=ints_cat_1_in_t_9"
+        ],
+        [
+            "Samurai",
+            "https://www.imdb.com/interest/in0000199/?ref_=ints_cat_1_in_t_10"
+        ],
+        [
+            "Superhero",
+            "https://www.imdb.com/interest/in0000008/?ref_=ints_cat_1_in_t_11"
+        ],
+        [
+            "Sword & Sandal",
+            "https://www.imdb.com/interest/in0000009/?ref_=ints_cat_1_in_t_12"
+        ],
+        [
+            "War",
+            "https://www.imdb.com/interest/in0000010/?ref_=ints_cat_1_in_t_13"
+        ],
+        [
+            "War Epic",
+            "https://www.imdb.com/interest/in0000011/?ref_=ints_cat_1_in_t_14"
+        ],
+        [
+            "Wuxia",
+            "https://www.imdb.com/interest/in0000200/?ref_=ints_cat_1_in_t_15"
+        ]
+    ],
+    "Adventure": [
+        [
+            "Adventure",
+            "https://www.imdb.com/interest/in0000012/?ref_=ints_cat_2_in_t_1"
+        ],
+        [
+            "Adventure Epic",
+            "https://www.imdb.com/interest/in0000015/?ref_=ints_cat_2_in_t_2"
+        ],
+        [
+            "Desert Adventure",
+            "https://www.imdb.com/interest/in0000013/?ref_=ints_cat_2_in_t_3"
+        ],
+        [
+            "Dinosaur Adventure",
+            "https://www.imdb.com/interest/in0000014/?ref_=ints_cat_2_in_t_4"
+        ],
+        [
+            "Globetrotting Adventure",
+            "https://www.imdb.com/interest/in0000016/?ref_=ints_cat_2_in_t_5"
+        ],
+        [
+            "Jungle Adventure",
+            "https://www.imdb.com/interest/in0000017/?ref_=ints_cat_2_in_t_6"
+        ],
+        [
+            "Mountain Adventure",
+            "https://www.imdb.com/interest/in0000018/?ref_=ints_cat_2_in_t_7"
+        ],
+        [
+            "Quest",
+            "https://www.imdb.com/interest/in0000019/?ref_=ints_cat_2_in_t_8"
+        ],
+        [
+            "Road Trip",
+            "https://www.imdb.com/interest/in0000020/?ref_=ints_cat_2_in_t_9"
+        ],
+        [
+            "Sea Adventure",
+            "https://www.imdb.com/interest/in0000021/?ref_=ints_cat_2_in_t_10"
+        ],
+        [
+            "Swashbuckler",
+            "https://www.imdb.com/interest/in0000022/?ref_=ints_cat_2_in_t_11"
+        ],
+        [
+            "Teen Adventure",
+            "https://www.imdb.com/interest/in0000023/?ref_=ints_cat_2_in_t_12"
+        ],
+        [
+            "Urban Adventure",
+            "https://www.imdb.com/interest/in0000024/?ref_=ints_cat_2_in_t_13"
+        ]
+    ],
+    "Animation": [
+        [
+            "Adult Animation",
+            "https://www.imdb.com/interest/in0000025/?ref_=ints_cat_3_in_t_1"
+        ],
+        [
+            "Animation",
+            "https://www.imdb.com/interest/in0000026/?ref_=ints_cat_3_in_t_2"
+        ],
+        [
+            "Computer Animation",
+            "https://www.imdb.com/interest/in0000028/?ref_=ints_cat_3_in_t_3"
+        ],
+        [
+            "Hand-Drawn Animation",
+            "https://www.imdb.com/interest/in0000029/?ref_=ints_cat_3_in_t_4"
+        ],
+        [
+            "Stop Motion Animation",
+            "https://www.imdb.com/interest/in0000030/?ref_=ints_cat_3_in_t_5"
+        ]
+    ],
+    "Anime": [
+        [
+            "Anime",
+            "https://www.imdb.com/interest/in0000027/?ref_=ints_cat_4_in_t_1"
+        ],
+        [
+            "Isekai",
+            "https://www.imdb.com/interest/in0000201/?ref_=ints_cat_4_in_t_2"
+        ],
+        [
+            "Iyashikei",
+            "https://www.imdb.com/interest/in0000202/?ref_=ints_cat_4_in_t_3"
+        ],
+        [
+            "Josei",
+            "https://www.imdb.com/interest/in0000203/?ref_=ints_cat_4_in_t_4"
+        ],
+        [
+            "Mecha",
+            "https://www.imdb.com/interest/in0000204/?ref_=ints_cat_4_in_t_5"
+        ],
+        [
+            "Seinen",
+            "https://www.imdb.com/interest/in0000205/?ref_=ints_cat_4_in_t_6"
+        ],
+        [
+            "Sh\u014djo",
+            "https://www.imdb.com/interest/in0000207/?ref_=ints_cat_4_in_t_7"
+        ],
+        [
+            "Sh\u014dnen",
+            "https://www.imdb.com/interest/in0000206/?ref_=ints_cat_4_in_t_8"
+        ],
+        [
+            "Slice of Life",
+            "https://www.imdb.com/interest/in0000208/?ref_=ints_cat_4_in_t_9"
+        ]
+    ],
+    "Comedy": [
+        [
+            "Body Swap Comedy",
+            "https://www.imdb.com/interest/in0000031/?ref_=ints_cat_5_in_t_1"
+        ],
+        [
+            "Buddy Comedy",
+            "https://www.imdb.com/interest/in0000032/?ref_=ints_cat_5_in_t_2"
+        ],
+        [
+            "Buddy Cop",
+            "https://www.imdb.com/interest/in0000033/?ref_=ints_cat_5_in_t_3"
+        ],
+        [
+            "Comedy",
+            "https://www.imdb.com/interest/in0000034/?ref_=ints_cat_5_in_t_4"
+        ],
+        [
+            "Dark Comedy",
+            "https://www.imdb.com/interest/in0000035/?ref_=ints_cat_5_in_t_5"
+        ],
+        [
+            "Farce",
+            "https://www.imdb.com/interest/in0000036/?ref_=ints_cat_5_in_t_6"
+        ],
+        [
+            "High-Concept Comedy",
+            "https://www.imdb.com/interest/in0000037/?ref_=ints_cat_5_in_t_7"
+        ],
+        [
+            "Mockumentary",
+            "https://www.imdb.com/interest/in0000038/?ref_=ints_cat_5_in_t_8"
+        ],
+        [
+            "Parody",
+            "https://www.imdb.com/interest/in0000039/?ref_=ints_cat_5_in_t_9"
+        ],
+        [
+            "Quirky Comedy",
+            "https://www.imdb.com/interest/in0000040/?ref_=ints_cat_5_in_t_10"
+        ],
+        [
+            "Raunchy Comedy",
+            "https://www.imdb.com/interest/in0000041/?ref_=ints_cat_5_in_t_11"
+        ],
+        [
+            "Satire",
+            "https://www.imdb.com/interest/in0000042/?ref_=ints_cat_5_in_t_12"
+        ],
+        [
+            "Screwball Comedy",
+            "https://www.imdb.com/interest/in0000043/?ref_=ints_cat_5_in_t_13"
+        ],
+        [
+            "Sitcom",
+            "https://www.imdb.com/interest/in0000044/?ref_=ints_cat_5_in_t_14"
+        ],
+        [
+            "Sketch Comedy",
+            "https://www.imdb.com/interest/in0000045/?ref_=ints_cat_5_in_t_15"
+        ],
+        [
+            "Slapstick",
+            "https://www.imdb.com/interest/in0000046/?ref_=ints_cat_5_in_t_16"
+        ],
+        [
+            "Stand-Up",
+            "https://www.imdb.com/interest/in0000047/?ref_=ints_cat_5_in_t_17"
+        ],
+        [
+            "Stoner Comedy",
+            "https://www.imdb.com/interest/in0000048/?ref_=ints_cat_5_in_t_18"
+        ],
+        [
+            "Teen Comedy",
+            "https://www.imdb.com/interest/in0000049/?ref_=ints_cat_5_in_t_19"
+        ]
+    ],
+    "Crime": [
+        [
+            "Caper",
+            "https://www.imdb.com/interest/in0000050/?ref_=ints_cat_6_in_t_1"
+        ],
+        [
+            "Cop Drama",
+            "https://www.imdb.com/interest/in0000051/?ref_=ints_cat_6_in_t_2"
+        ],
+        [
+            "Crime",
+            "https://www.imdb.com/interest/in0000052/?ref_=ints_cat_6_in_t_3"
+        ],
+        [
+            "Drug Crime",
+            "https://www.imdb.com/interest/in0000053/?ref_=ints_cat_6_in_t_4"
+        ],
+        [
+            "Film Noir",
+            "https://www.imdb.com/interest/in0000054/?ref_=ints_cat_6_in_t_5"
+        ],
+        [
+            "Gangster",
+            "https://www.imdb.com/interest/in0000055/?ref_=ints_cat_6_in_t_6"
+        ],
+        [
+            "Heist",
+            "https://www.imdb.com/interest/in0000056/?ref_=ints_cat_6_in_t_7"
+        ],
+        [
+            "Police Procedural",
+            "https://www.imdb.com/interest/in0000057/?ref_=ints_cat_6_in_t_8"
+        ],
+        [
+            "True Crime",
+            "https://www.imdb.com/interest/in0000058/?ref_=ints_cat_6_in_t_9"
+        ]
+    ],
+    "Documentary": [
+        [
+            "Crime Documentary",
+            "https://www.imdb.com/interest/in0000059/?ref_=ints_cat_7_in_t_1"
+        ],
+        [
+            "Documentary",
+            "https://www.imdb.com/interest/in0000060/?ref_=ints_cat_7_in_t_2"
+        ],
+        [
+            "Docuseries",
+            "https://www.imdb.com/interest/in0000061/?ref_=ints_cat_7_in_t_3"
+        ],
+        [
+            "Faith & Spirituality Documentary",
+            "https://www.imdb.com/interest/in0000062/?ref_=ints_cat_7_in_t_4"
+        ],
+        [
+            "Food Documentary",
+            "https://www.imdb.com/interest/in0000063/?ref_=ints_cat_7_in_t_5"
+        ],
+        [
+            "History Documentary",
+            "https://www.imdb.com/interest/in0000064/?ref_=ints_cat_7_in_t_6"
+        ],
+        [
+            "Military Documentary",
+            "https://www.imdb.com/interest/in0000065/?ref_=ints_cat_7_in_t_7"
+        ],
+        [
+            "Music Documentary",
+            "https://www.imdb.com/interest/in0000066/?ref_=ints_cat_7_in_t_8"
+        ],
+        [
+            "Nature Documentary",
+            "https://www.imdb.com/interest/in0000067/?ref_=ints_cat_7_in_t_9"
+        ],
+        [
+            "Political Documentary",
+            "https://www.imdb.com/interest/in0000068/?ref_=ints_cat_7_in_t_10"
+        ],
+        [
+            "Science & Technology Documentary",
+            "https://www.imdb.com/interest/in0000069/?ref_=ints_cat_7_in_t_11"
+        ],
+        [
+            "Sports Documentary",
+            "https://www.imdb.com/interest/in0000070/?ref_=ints_cat_7_in_t_12"
+        ],
+        [
+            "Travel Documentary",
+            "https://www.imdb.com/interest/in0000071/?ref_=ints_cat_7_in_t_13"
+        ]
+    ],
+    "Drama": [
+        [
+            "Biography",
+            "https://www.imdb.com/interest/in0000072/?ref_=ints_cat_8_in_t_1"
+        ],
+        [
+            "Coming-of-Age",
+            "https://www.imdb.com/interest/in0000073/?ref_=ints_cat_8_in_t_2"
+        ],
+        [
+            "Costume Drama",
+            "https://www.imdb.com/interest/in0000074/?ref_=ints_cat_8_in_t_3"
+        ],
+        [
+            "Docudrama",
+            "https://www.imdb.com/interest/in0000075/?ref_=ints_cat_8_in_t_4"
+        ],
+        [
+            "Drama",
+            "https://www.imdb.com/interest/in0000076/?ref_=ints_cat_8_in_t_5"
+        ],
+        [
+            "Epic",
+            "https://www.imdb.com/interest/in0000077/?ref_=ints_cat_8_in_t_6"
+        ],
+        [
+            "Financial Drama",
+            "https://www.imdb.com/interest/in0000078/?ref_=ints_cat_8_in_t_7"
+        ],
+        [
+            "Historical Epic",
+            "https://www.imdb.com/interest/in0000079/?ref_=ints_cat_8_in_t_8"
+        ],
+        [
+            "History",
+            "https://www.imdb.com/interest/in0000080/?ref_=ints_cat_8_in_t_9"
+        ],
+        [
+            "Korean Drama",
+            "https://www.imdb.com/interest/in0000209/?ref_=ints_cat_8_in_t_10"
+        ],
+        [
+            "Legal Drama",
+            "https://www.imdb.com/interest/in0000081/?ref_=ints_cat_8_in_t_11"
+        ],
+        [
+            "Medical Drama",
+            "https://www.imdb.com/interest/in0000082/?ref_=ints_cat_8_in_t_12"
+        ],
+        [
+            "Period Drama",
+            "https://www.imdb.com/interest/in0000083/?ref_=ints_cat_8_in_t_13"
+        ],
+        [
+            "Political Drama",
+            "https://www.imdb.com/interest/in0000084/?ref_=ints_cat_8_in_t_14"
+        ],
+        [
+            "Prison Drama",
+            "https://www.imdb.com/interest/in0000085/?ref_=ints_cat_8_in_t_15"
+        ],
+        [
+            "Psychological Drama",
+            "https://www.imdb.com/interest/in0000086/?ref_=ints_cat_8_in_t_16"
+        ],
+        [
+            "Showbiz Drama",
+            "https://www.imdb.com/interest/in0000087/?ref_=ints_cat_8_in_t_17"
+        ],
+        [
+            "Soap Opera",
+            "https://www.imdb.com/interest/in0000088/?ref_=ints_cat_8_in_t_18"
+        ],
+        [
+            "Teen Drama",
+            "https://www.imdb.com/interest/in0000089/?ref_=ints_cat_8_in_t_19"
+        ],
+        [
+            "Telenovela",
+            "https://www.imdb.com/interest/in0000210/?ref_=ints_cat_8_in_t_20"
+        ],
+        [
+            "Tragedy",
+            "https://www.imdb.com/interest/in0000090/?ref_=ints_cat_8_in_t_21"
+        ],
+        [
+            "Workplace Drama",
+            "https://www.imdb.com/interest/in0000091/?ref_=ints_cat_8_in_t_22"
+        ]
+    ],
+    "Family": [
+        [
+            "Animal Adventure",
+            "https://www.imdb.com/interest/in0000092/?ref_=ints_cat_9_in_t_1"
+        ],
+        [
+            "Family",
+            "https://www.imdb.com/interest/in0000093/?ref_=ints_cat_9_in_t_2"
+        ]
+    ],
+    "Fantasy": [
+        [
+            "Dark Fantasy",
+            "https://www.imdb.com/interest/in0000095/?ref_=ints_cat_10_in_t_1"
+        ],
+        [
+            "Fairy Tale",
+            "https://www.imdb.com/interest/in0000097/?ref_=ints_cat_10_in_t_2"
+        ],
+        [
+            "Fantasy",
+            "https://www.imdb.com/interest/in0000098/?ref_=ints_cat_10_in_t_3"
+        ],
+        [
+            "Fantasy Epic",
+            "https://www.imdb.com/interest/in0000096/?ref_=ints_cat_10_in_t_4"
+        ],
+        [
+            "Supernatural Fantasy",
+            "https://www.imdb.com/interest/in0000099/?ref_=ints_cat_10_in_t_5"
+        ],
+        [
+            "Sword & Sorcery",
+            "https://www.imdb.com/interest/in0000100/?ref_=ints_cat_10_in_t_6"
+        ],
+        [
+            "Teen Fantasy",
+            "https://www.imdb.com/interest/in0000101/?ref_=ints_cat_10_in_t_7"
+        ]
+    ],
+    "Game Show": [
+        [
+            "Beauty Competition",
+            "https://www.imdb.com/interest/in0000102/?ref_=ints_cat_11_in_t_1"
+        ],
+        [
+            "Cooking Competition",
+            "https://www.imdb.com/interest/in0000103/?ref_=ints_cat_11_in_t_2"
+        ],
+        [
+            "Game Show",
+            "https://www.imdb.com/interest/in0000105/?ref_=ints_cat_11_in_t_3"
+        ],
+        [
+            "Quiz Show",
+            "https://www.imdb.com/interest/in0000104/?ref_=ints_cat_11_in_t_4"
+        ],
+        [
+            "Survival Competition",
+            "https://www.imdb.com/interest/in0000106/?ref_=ints_cat_11_in_t_5"
+        ],
+        [
+            "Talent Competition",
+            "https://www.imdb.com/interest/in0000107/?ref_=ints_cat_11_in_t_6"
+        ]
+    ],
+    "Horror": [
+        [
+            "B-Horror",
+            "https://www.imdb.com/interest/in0000108/?ref_=ints_cat_12_in_t_1"
+        ],
+        [
+            "Body Horror",
+            "https://www.imdb.com/interest/in0000109/?ref_=ints_cat_12_in_t_2"
+        ],
+        [
+            "Folk Horror",
+            "https://www.imdb.com/interest/in0000110/?ref_=ints_cat_12_in_t_3"
+        ],
+        [
+            "Found Footage Horror",
+            "https://www.imdb.com/interest/in0000111/?ref_=ints_cat_12_in_t_4"
+        ],
+        [
+            "Horror",
+            "https://www.imdb.com/interest/in0000112/?ref_=ints_cat_12_in_t_5"
+        ],
+        [
+            "Monster Horror",
+            "https://www.imdb.com/interest/in0000113/?ref_=ints_cat_12_in_t_6"
+        ],
+        [
+            "Psychological Horror",
+            "https://www.imdb.com/interest/in0000114/?ref_=ints_cat_12_in_t_7"
+        ],
+        [
+            "Slasher Horror",
+            "https://www.imdb.com/interest/in0000115/?ref_=ints_cat_12_in_t_8"
+        ],
+        [
+            "Splatter Horror",
+            "https://www.imdb.com/interest/in0000116/?ref_=ints_cat_12_in_t_9"
+        ],
+        [
+            "Supernatural Horror",
+            "https://www.imdb.com/interest/in0000117/?ref_=ints_cat_12_in_t_10"
+        ],
+        [
+            "Teen Horror",
+            "https://www.imdb.com/interest/in0000118/?ref_=ints_cat_12_in_t_11"
+        ],
+        [
+            "Vampire Horror",
+            "https://www.imdb.com/interest/in0000119/?ref_=ints_cat_12_in_t_12"
+        ],
+        [
+            "Werewolf Horror",
+            "https://www.imdb.com/interest/in0000120/?ref_=ints_cat_12_in_t_13"
+        ],
+        [
+            "Witch Horror",
+            "https://www.imdb.com/interest/in0000121/?ref_=ints_cat_12_in_t_14"
+        ],
+        [
+            "Zombie Horror",
+            "https://www.imdb.com/interest/in0000122/?ref_=ints_cat_12_in_t_15"
+        ]
+    ],
+    "Lifestyle": [
+        [
+            "Beauty Makeover",
+            "https://www.imdb.com/interest/in0000123/?ref_=ints_cat_13_in_t_1"
+        ],
+        [
+            "Cooking & Food",
+            "https://www.imdb.com/interest/in0000124/?ref_=ints_cat_13_in_t_2"
+        ],
+        [
+            "Home Improvement",
+            "https://www.imdb.com/interest/in0000125/?ref_=ints_cat_13_in_t_3"
+        ],
+        [
+            "Lifestyle",
+            "https://www.imdb.com/interest/in0000126/?ref_=ints_cat_13_in_t_4"
+        ],
+        [
+            "News",
+            "https://www.imdb.com/interest/in0000211/?ref_=ints_cat_13_in_t_5"
+        ],
+        [
+            "Talk Show",
+            "https://www.imdb.com/interest/in0000127/?ref_=ints_cat_13_in_t_6"
+        ],
+        [
+            "Travel",
+            "https://www.imdb.com/interest/in0000128/?ref_=ints_cat_13_in_t_7"
+        ]
+    ],
+    "Music": [
+        [
+            "Concert",
+            "https://www.imdb.com/interest/in0000129/?ref_=ints_cat_14_in_t_1"
+        ],
+        [
+            "Music",
+            "https://www.imdb.com/interest/in0000130/?ref_=ints_cat_14_in_t_2"
+        ]
+    ],
+    "Musical": [
+        [
+            "Classic Musical",
+            "https://www.imdb.com/interest/in0000131/?ref_=ints_cat_15_in_t_1"
+        ],
+        [
+            "Jukebox Musical",
+            "https://www.imdb.com/interest/in0000132/?ref_=ints_cat_15_in_t_2"
+        ],
+        [
+            "Musical",
+            "https://www.imdb.com/interest/in0000133/?ref_=ints_cat_15_in_t_3"
+        ],
+        [
+            "Pop Musical",
+            "https://www.imdb.com/interest/in0000134/?ref_=ints_cat_15_in_t_4"
+        ],
+        [
+            "Rock Musical",
+            "https://www.imdb.com/interest/in0000135/?ref_=ints_cat_15_in_t_5"
+        ]
+    ],
+    "Mystery": [
+        [
+            "Bumbling Detective",
+            "https://www.imdb.com/interest/in0000136/?ref_=ints_cat_16_in_t_1"
+        ],
+        [
+            "Cozy Mystery",
+            "https://www.imdb.com/interest/in0000137/?ref_=ints_cat_16_in_t_2"
+        ],
+        [
+            "Hard-boiled Detective",
+            "https://www.imdb.com/interest/in0000138/?ref_=ints_cat_16_in_t_3"
+        ],
+        [
+            "Mystery",
+            "https://www.imdb.com/interest/in0000139/?ref_=ints_cat_16_in_t_4"
+        ],
+        [
+            "Suspense Mystery",
+            "https://www.imdb.com/interest/in0000140/?ref_=ints_cat_16_in_t_5"
+        ],
+        [
+            "Whodunnit",
+            "https://www.imdb.com/interest/in0000141/?ref_=ints_cat_16_in_t_6"
+        ]
+    ],
+    "Reality TV": [
+        [
+            "Business Reality TV",
+            "https://www.imdb.com/interest/in0000142/?ref_=ints_cat_17_in_t_1"
+        ],
+        [
+            "Crime Reality TV",
+            "https://www.imdb.com/interest/in0000143/?ref_=ints_cat_17_in_t_2"
+        ],
+        [
+            "Dating Reality TV",
+            "https://www.imdb.com/interest/in0000144/?ref_=ints_cat_17_in_t_3"
+        ],
+        [
+            "Docusoap Reality TV",
+            "https://www.imdb.com/interest/in0000145/?ref_=ints_cat_17_in_t_4"
+        ],
+        [
+            "Hidden Camera",
+            "https://www.imdb.com/interest/in0000146/?ref_=ints_cat_17_in_t_5"
+        ],
+        [
+            "Paranormal Reality TV",
+            "https://www.imdb.com/interest/in0000147/?ref_=ints_cat_17_in_t_6"
+        ],
+        [
+            "Reality TV",
+            "https://www.imdb.com/interest/in0000148/?ref_=ints_cat_17_in_t_7"
+        ]
+    ],
+    "Romance": [
+        [
+            "Dark Romance",
+            "https://www.imdb.com/interest/in0000149/?ref_=ints_cat_18_in_t_1"
+        ],
+        [
+            "Feel-Good Romance",
+            "https://www.imdb.com/interest/in0000151/?ref_=ints_cat_18_in_t_2"
+        ],
+        [
+            "Romance",
+            "https://www.imdb.com/interest/in0000152/?ref_=ints_cat_18_in_t_3"
+        ],
+        [
+            "Romantic Comedy",
+            "https://www.imdb.com/interest/in0000153/?ref_=ints_cat_18_in_t_4"
+        ],
+        [
+            "Romantic Epic",
+            "https://www.imdb.com/interest/in0000150/?ref_=ints_cat_18_in_t_5"
+        ],
+        [
+            "Steamy Romance",
+            "https://www.imdb.com/interest/in0000154/?ref_=ints_cat_18_in_t_6"
+        ],
+        [
+            "Teen Romance",
+            "https://www.imdb.com/interest/in0000155/?ref_=ints_cat_18_in_t_7"
+        ],
+        [
+            "Tragic Romance",
+            "https://www.imdb.com/interest/in0000156/?ref_=ints_cat_18_in_t_8"
+        ]
+    ],
+    "Sci-Fi": [
+        [
+            "Alien Invasion",
+            "https://www.imdb.com/interest/in0000157/?ref_=ints_cat_19_in_t_1"
+        ],
+        [
+            "Artificial Intelligence",
+            "https://www.imdb.com/interest/in0000158/?ref_=ints_cat_19_in_t_2"
+        ],
+        [
+            "Cyberpunk",
+            "https://www.imdb.com/interest/in0000159/?ref_=ints_cat_19_in_t_3"
+        ],
+        [
+            "Dystopian Sci-Fi",
+            "https://www.imdb.com/interest/in0000160/?ref_=ints_cat_19_in_t_4"
+        ],
+        [
+            "Kaiju",
+            "https://www.imdb.com/interest/in0000161/?ref_=ints_cat_19_in_t_5"
+        ],
+        [
+            "Sci-Fi",
+            "https://www.imdb.com/interest/in0000162/?ref_=ints_cat_19_in_t_6"
+        ],
+        [
+            "Sci-Fi Epic",
+            "https://www.imdb.com/interest/in0000163/?ref_=ints_cat_19_in_t_7"
+        ],
+        [
+            "Space Sci-Fi",
+            "https://www.imdb.com/interest/in0000164/?ref_=ints_cat_19_in_t_8"
+        ],
+        [
+            "Steampunk",
+            "https://www.imdb.com/interest/in0000165/?ref_=ints_cat_19_in_t_9"
+        ],
+        [
+            "Time Travel",
+            "https://www.imdb.com/interest/in0000166/?ref_=ints_cat_19_in_t_10"
+        ]
+    ],
+    "Seasonal": [
+        [
+            "Holiday",
+            "https://www.imdb.com/interest/in0000192/?ref_=ints_cat_20_in_t_1"
+        ],
+        [
+            "Holiday Animation",
+            "https://www.imdb.com/interest/in0000193/?ref_=ints_cat_20_in_t_2"
+        ],
+        [
+            "Holiday Comedy",
+            "https://www.imdb.com/interest/in0000194/?ref_=ints_cat_20_in_t_3"
+        ],
+        [
+            "Holiday Family",
+            "https://www.imdb.com/interest/in0000195/?ref_=ints_cat_20_in_t_4"
+        ],
+        [
+            "Holiday Romance",
+            "https://www.imdb.com/interest/in0000196/?ref_=ints_cat_20_in_t_5"
+        ]
+    ],
+    "Short": [
+        [
+            "Short",
+            "https://www.imdb.com/interest/in0000212/?ref_=ints_cat_21_in_t_1"
+        ]
+    ],
+    "Sport": [
+        [
+            "Baseball",
+            "https://www.imdb.com/interest/in0000167/?ref_=ints_cat_22_in_t_1"
+        ],
+        [
+            "Basketball",
+            "https://www.imdb.com/interest/in0000168/?ref_=ints_cat_22_in_t_2"
+        ],
+        [
+            "Boxing",
+            "https://www.imdb.com/interest/in0000169/?ref_=ints_cat_22_in_t_3"
+        ],
+        [
+            "Extreme Sport",
+            "https://www.imdb.com/interest/in0000170/?ref_=ints_cat_22_in_t_4"
+        ],
+        [
+            "Football",
+            "https://www.imdb.com/interest/in0000171/?ref_=ints_cat_22_in_t_5"
+        ],
+        [
+            "Motorsport",
+            "https://www.imdb.com/interest/in0000172/?ref_=ints_cat_22_in_t_6"
+        ],
+        [
+            "Soccer",
+            "https://www.imdb.com/interest/in0000173/?ref_=ints_cat_22_in_t_7"
+        ],
+        [
+            "Sport",
+            "https://www.imdb.com/interest/in0000174/?ref_=ints_cat_22_in_t_8"
+        ],
+        [
+            "Water Sport",
+            "https://www.imdb.com/interest/in0000175/?ref_=ints_cat_22_in_t_9"
+        ]
+    ],
+    "Thriller": [
+        [
+            "Conspiracy Thriller",
+            "https://www.imdb.com/interest/in0000176/?ref_=ints_cat_23_in_t_1"
+        ],
+        [
+            "Cyber Thriller",
+            "https://www.imdb.com/interest/in0000177/?ref_=ints_cat_23_in_t_2"
+        ],
+        [
+            "Erotic Thriller",
+            "https://www.imdb.com/interest/in0000178/?ref_=ints_cat_23_in_t_3"
+        ],
+        [
+            "Giallo",
+            "https://www.imdb.com/interest/in0000179/?ref_=ints_cat_23_in_t_4"
+        ],
+        [
+            "Legal Thriller",
+            "https://www.imdb.com/interest/in0000180/?ref_=ints_cat_23_in_t_5"
+        ],
+        [
+            "Political Thriller",
+            "https://www.imdb.com/interest/in0000181/?ref_=ints_cat_23_in_t_6"
+        ],
+        [
+            "Psychological Thriller",
+            "https://www.imdb.com/interest/in0000182/?ref_=ints_cat_23_in_t_7"
+        ],
+        [
+            "Serial Killer",
+            "https://www.imdb.com/interest/in0000183/?ref_=ints_cat_23_in_t_8"
+        ],
+        [
+            "Spy",
+            "https://www.imdb.com/interest/in0000184/?ref_=ints_cat_23_in_t_9"
+        ],
+        [
+            "Survival",
+            "https://www.imdb.com/interest/in0000185/?ref_=ints_cat_23_in_t_10"
+        ],
+        [
+            "Thriller",
+            "https://www.imdb.com/interest/in0000186/?ref_=ints_cat_23_in_t_11"
+        ]
+    ],
+    "Western": [
+        [
+            "Classical Western",
+            "https://www.imdb.com/interest/in0000187/?ref_=ints_cat_24_in_t_1"
+        ],
+        [
+            "Contemporary Western",
+            "https://www.imdb.com/interest/in0000188/?ref_=ints_cat_24_in_t_2"
+        ],
+        [
+            "Spaghetti Western",
+            "https://www.imdb.com/interest/in0000190/?ref_=ints_cat_24_in_t_3"
+        ],
+        [
+            "Western",
+            "https://www.imdb.com/interest/in0000191/?ref_=ints_cat_24_in_t_4"
+        ],
+        [
+            "Western Epic",
+            "https://www.imdb.com/interest/in0000189/?ref_=ints_cat_24_in_t_5"
+        ]
+    ]
+}
